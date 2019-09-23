@@ -1,1 +1,1 @@
-"# test" 
+Primality test using the farmat algorithm. Since I'm practicing my problem-solving skills, I'm not using any lib depencies (we could use power and module operators instead all of that). Also testing out inputing all by the prompt.
